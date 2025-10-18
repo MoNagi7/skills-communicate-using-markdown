@@ -15,3 +15,11 @@ def greet(name):
     print(f"Hello, {name}! Welcome to GitHub Markdown practice.")
 
 greet("Mohamed")
+
+### My Task List
+
+- [x] Add headers  
+- [x] Add an image  
+- [x] Add a code example  
+- [ ] Make a task list  
+- [ ] Merge pull request
